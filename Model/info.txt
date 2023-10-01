@@ -1,0 +1,1 @@
+We used a framework called yolov5 for this. It uses a specilized algorithm for in real time object detection. More info about it here https://github.com/ultralytics/yolov5
